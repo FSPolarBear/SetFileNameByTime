@@ -1,0 +1,15 @@
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\bin\Debug\net6.0\SetFileNameByTime.exe
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\bin\Debug\net6.0\SetFileNameByTime.deps.json
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\bin\Debug\net6.0\SetFileNameByTime.runtimeconfig.json
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\bin\Debug\net6.0\SetFileNameByTime.dll
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\bin\Debug\net6.0\SetFileNameByTime.pdb
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.csproj.AssemblyReference.cache
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.AssemblyInfoInputs.cache
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.AssemblyInfo.cs
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.csproj.CoreCompileInputs.cache
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.dll
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\refint\SetFileNameByTime.dll
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.pdb
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\SetFileNameByTime.genruntimeconfig.cache
+D:\Projects\vs\SetFileNameByTime\SetFileNameByTime\obj\Debug\net6.0\ref\SetFileNameByTime.dll
