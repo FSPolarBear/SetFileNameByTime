@@ -5,7 +5,7 @@
 1.0.0
 
 ## 环境要求
-Windows10, .NET Framework 6.0
+Windows10, .NET 6.0
 
 ## 使用方法
 本程序为命令行程序，需要两个参数。<br>
